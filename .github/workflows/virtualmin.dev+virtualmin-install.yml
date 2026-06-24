@@ -1,4 +1,4 @@
-name: "virtualmin.dev: virtualmin/virtualmin-install"
+name: Package and upload artifacts
 
 on:
   push:
